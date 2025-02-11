@@ -15,7 +15,7 @@
   "DigitizerIdentifiers": [
     {
       "VendorID": 10429,
-      "ProductID": 2370,
+      "ProductID": 65522,
       "InputReportLength": 14,
       "OutputReportLength": 14,
       "ReportParser": "OpenTabletDriver.Configurations.Parsers.XP_Pen.XP_PenGen2ReportParser",
